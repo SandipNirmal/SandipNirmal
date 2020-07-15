@@ -10,7 +10,6 @@ let learning = ['Svelte', 'Sapper'];
 ```
 
 ### Articles
----
 
 * [Compound Components with React Context API](https://blog.usejournal.com/compound-components-react-context-38da96bfb384)
 * [Simple Math to fix UI](https://blog.usejournal.com/simple-math-to-solve-ui-problem-3028b9c04561)
