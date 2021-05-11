@@ -1,6 +1,6 @@
 # Sandip Nirmal
 
-Software developer at F5 Networks. Love web development, running 🏃🏽‍♂️, football ⚽️ and books 📚.
+Software developer at Uni Cards. Love web development, running 🏃🏽‍♂️, football ⚽️ and books 📚.
 
 ```javascript
 const name = 'Sandip Nirmal';
