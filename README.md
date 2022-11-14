@@ -1,12 +1,12 @@
 # Sandip Nirmal
 
-Software developer at Uni Cards. Love web development, running 🏃🏽‍♂️, football ⚽️ and books 📚.
+Software developer at Quizizz Inc. Love web development, running 🏃🏽‍♂️, football ⚽️ and books 📚.
 
 ```javascript
 const name = 'Sandip Nirmal';
 let work = 'Software Developer with love for the Web';
 let skills = ['HTML', 'CSS', 'JavaScript', 'Node.js', 'React', 'Angular', 'GraphQL', 'MongoDB'];
-let learning = ['Svelte', 'GoLang', 'Sanskrit'];
+let learning = ['Svelte', 'GoLang', 'Sanskrit', 'ThreeJS'];
 ```
 
 ### Articles
